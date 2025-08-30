@@ -1,7 +1,9 @@
 # PubChem Temporal Trends Analysis
 
 Interactive Streamlit application analyzing temporal evolution of molecular descriptors in PubChem compounds from 1996-2024.
-100+ Molecules random sampled for each decades from 116Mio compounds with MW<1000 from pubchem v18. To be repeated on latest version. 
+100 Pubchem molecules random sampled for each decades from original 116Mio compounds collection with MW<1000 from pubchem v18. To be repeated on latest version.
+The idea follows several previous papers on [scaffolds](https://pmc.ncbi.nlm.nih.gov/articles/PMC5199768/), on [bibliographies](https://www.sciencedirect.com/science/article/abs/pii/S1359644614003353), 
+on [medicinal chemistry-related properties](), on [bioactivities](https://academic.oup.com/nar/article/37/suppl_2/W623/1155303?login=false)
 
 ## Features
 - **Temporal Trends**: Track molecular property changes over time
