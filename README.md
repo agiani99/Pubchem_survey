@@ -6,7 +6,7 @@ The idea follows several previous papers on [scaffolds](https://pmc.ncbi.nlm.nih
 on [medicinal chemistry-related properties](https://pubs.acs.org/doi/full/10.1021/jm300501t), on [bioactivities](https://academic.oup.com/nar/article/37/suppl_2/W623/1155303?login=false).
 Longitudinally few examples: [meta-analyses published so far](https://www.nature.com/articles/s41397-025-00368-z).
 
-One of the ![results](MW_trend.png "MW Trend")
+One of the results ![results](MW_trend.png "MW Trend")
 
 
 ## Features
