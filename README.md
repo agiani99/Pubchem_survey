@@ -19,7 +19,9 @@ pip install streamlit pandas numpy matplotlib seaborn plotly scipy scikit-learn
 
 ## Usage
 ```bash
-streamlit run pubchem_streamlit_app.py
+streamlit run pubchem_streamlit_app_v2.py   # to use just classical 2D descriptors"
+
+streamlit run pubchem_streamlit_app_v3.py   # to use almost all 200+ RDKit 2D descriptors"
 ```
 
 ## Data Files Required
