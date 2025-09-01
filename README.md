@@ -5,6 +5,7 @@ Interactive Streamlit application analyzing temporal evolution of molecular desc
 The idea follows several previous papers on [scaffolds](https://pmc.ncbi.nlm.nih.gov/articles/PMC5199768/), on [bibliographies](https://www.sciencedirect.com/science/article/abs/pii/S1359644614003353), 
 on [medicinal chemistry-related properties](https://pubs.acs.org/doi/full/10.1021/jm300501t), on [bioactivities](https://academic.oup.com/nar/article/37/suppl_2/W623/1155303?login=false).
 Longitudinally few examples: [meta-analyses published so far](https://www.nature.com/articles/s41397-025-00368-z).
+Inspiration to this work I got from ![here](https://docs.google.com/viewer?url="Rob Y H3D Foundation Webinar 28_08_25.pdf", Rob's slides)
 
 One of the results ![results](MW_trend.png "MW Trend")
 
